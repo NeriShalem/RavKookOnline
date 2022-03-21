@@ -11,8 +11,6 @@ function App() {
       <div className="container">
         <BookArchive/>
         <BookPage/>
-      
-
       </div> 
     </div>
   );
