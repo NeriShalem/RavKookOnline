@@ -1,0 +1,2 @@
+*{-webkit-box-sizing:border-box;box-sizing:border-box;margin:0;padding:0}h1,h2,h3{font-weight:400}.Header{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;z-index:2;-webkit-box-shadow:rgba(37,16,47,0.2) 0px 2px 12px 0px;box-shadow:rgba(37,16,47,0.2) 0px 2px 12px 0px;height:80px;margin-bottom:50px}@media (max-width: 600px){.Header{height:40px;margin-bottom:20px}}
+/*# sourceMappingURL=main.css.map */

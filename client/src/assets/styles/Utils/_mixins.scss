@@ -1,0 +1,25 @@
+@mixin flex($justifyContent: null, $alignItems: null, $direction: null) {
+    display: flex;
+    justify-content: $justifyContent;
+    align-items: $alignItems;
+    flex-direction: $direction;
+}
+@mixin flexCenter($direction: null) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: $direction;
+}
+
+@mixin  mobile {
+    @media (max-width: $mobile) {
+        @content;
+    }
+}
+
+// @mixin theme ($light-theme: true) {
+//  @if  $light-theme {
+    
+//  }
+// }
+    

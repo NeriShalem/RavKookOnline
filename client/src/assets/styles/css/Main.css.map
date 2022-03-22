@@ -1,0 +1,19 @@
+{
+    "version": 3,
+    "mappings": "ACCA,AAAA,CAAC,AAAC,CACE,UAAU,CAAE,UAAU,CACtB,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CACb,AAED,AAAA,EAAE,CAAE,EAAE,CAAE,EAAE,AAAC,CACP,WAAW,CAAE,GAAG,CACnB,AGTD,AAAA,OAAO,AAAC,CDOJ,OAAO,CAAE,IAAI,CACb,eAAe,CAAE,MAAM,CACvB,WAAW,CAAE,MAAM,CCPnB,OAAO,CAAE,CAAC,CACV,UAAU,CAAE,kBAAqB,CAAC,GAAG,CAAC,GAAG,CAAC,IAAI,CAAC,GAAG,CAClD,MAAM,CAAE,IAAI,CACZ,aAAa,CAAE,IAAI,CAOtB,AAJG,MAAM,EAAE,SAAS,EAAE,KAAK,EAR5B,AAAA,OAAO,AAAC,CASA,MAAM,CAAE,IAAI,CACZ,aAAa,CAAE,IAAI,CAE1B",
+    "sources": [
+        "../main.scss",
+        "../_config.scss",
+        "../Utils/_variables.scss",
+        "../Utils/_mixins.scss",
+        "../Layout/_Header.scss",
+        "../Layout/_Footer.scss",
+        "../Layout/_Sidebar.scss",
+        "../Pages/_BooksArchive.scss",
+        "../Pages/_BookPage.scss",
+        "../Pages/_ForumArchive.scss",
+        "../Pages/_ForumRoom.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}

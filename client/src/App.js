@@ -1,8 +1,10 @@
 
 import './App.css';
-import Header from './components/Header/Header';
-import BookArchive from './components/BooksArchive/BookArchive';
-import BookPage from './components/BookPage/BookPage';
+import './assets/styles/css/Main.css';
+import Header from './Components/Header/Header';
+import BookArchive from './Components/BooksArchive/BookArchive';
+import BookPage from './Components/BookPage/BookPage';
+// import './assets/styles/css/Main.css'
 
 function App() {
   return (

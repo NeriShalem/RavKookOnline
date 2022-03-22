@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../Layout/SideBar.scss"
+    ],
+    "names": [],
+    "file": "SideBar.css"
+}

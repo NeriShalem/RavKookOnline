@@ -1,0 +1,13 @@
+.Header {
+    @include flexCenter();
+    z-index: 2;
+    box-shadow: rgba(37, 16, 47, 0.2) 0px 2px 12px 0px;
+    height: 80px; 
+    margin-bottom: 50px;
+    @media #{$large} {
+    }
+    @media #{$small} {
+        height: 40px; 
+        margin-bottom: 20px;
+    }
+}
